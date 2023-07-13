@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm hesam!</h1>
 <h3 align="center">A passionate Back-End developer from Iran</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-- 👾 I’m currently learning  node js
+ - 👾 I’m currently learning  node js
 
 - 👨‍💻 All of my projects are available at (soon) [hesamkharazmi.ir](hesamkharazmi.ir)
 
