@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hesamkharazmiii@gmail.com**
 
-- ⚡ Fun fact ** Im Competitive Person**
+- ⚡ Fun fact ** Im Competitive Person **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
