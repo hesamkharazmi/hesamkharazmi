@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm hesam!</h1>
 <h3 align="center">A passionate Back-End developer from Iran</h3>
-<img align="right" alt="nil" width="400" src="https://raw.githubusercontent.com/extensionsapp/progre.sh/master/progreSh.gif">
+<img align="right" alt="nil" width="400" src="https://twitter.com/IntelSoftware/status/677916742971166720/photo/1">
  -  👾 I’m currently learning Golang
 
 - 📫 How to reach me **hesamkharazmiii@gmail.com**
