@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hesamkharazmiii@gmail.com**
 
-- 📝 I regularly write articles on [hesamkharazmi.blog.ir](hesamkharazmi.blog.ir)
+- 📝 I regularly write articles on [**hesamkharazmi.blog.ir**](hesamkharazmi.blog.ir)
 
 - ⚡ Fun fact , **I'm Competitive Person**
 
