@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm hesam!</h1>
 <h3 align="center">A passionate Back-End developer from Iran</h3>
 <img align="right" alt="nil" width="400" src="https://e0.pxfuel.com/wallpapers/969/98/desktop-wallpaper-talk-is-cheap-show-me-the-code-computer-science-coding-math.jpg">
- -  👾 I’m currently learning Golang
+- 👾 I’m currently learning Golang
+
 
 - 📫 How to reach me **hesamkharazmiii@gmail.com**
 
-- 📝 I regularly write articles on [**hesamkharazmi.blog.ir**](www.hesamkharazmi.blog.ir)
 
 - ⚡ Fun fact , **I'm Competitive Person**
 
