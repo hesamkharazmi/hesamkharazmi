@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **some fascinating golang projects!**
 
-- 📝 I regularly write articles on (hesamkharazmi.blog.ir)
-
 - 📫 How to reach me **hesamkharazmiii@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hesam-kharazmipour/](https://www.linkedin.com/in/hesam-kharazmipour/)
