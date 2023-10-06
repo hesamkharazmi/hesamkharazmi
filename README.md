@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **some fascinating golang Projects!**
+- 👯 I’m looking to collaborate on **some fascinating golang projects!**
 
 - 📝 I regularly write articles on [hesamkharazmi.blog.ir](hesamkharazmi.blog.ir)
 
