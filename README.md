@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm hesam</h1>
 <h3 align="center">A passionate BackEnd developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bstboy" alt="bstboy" /></a> </p>
-
 - 👨‍💻 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **some fascinating golang Projects!**
@@ -18,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hesam-kharazmipour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hesam-kharazmipour" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hesam-kharazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hesam-kharazmi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users//20820041/hesam-kharazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/20820041/hesam-kharazmi" height="30" width="40" /></a>
 <a href="https://kaggle.com/bstboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bstboy" height="30" width="40" /></a>
 </p>
 
