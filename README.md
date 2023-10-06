@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hesam-kharazmipour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hesam-kharazmipour" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users//20820041/hesam-kharazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/20820041/hesam-kharazmi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20820041/hesam-kharazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20820041/hesam-kharazmi" height="30" width="40" /></a>
 <a href="https://kaggle.com/bstboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bstboy" height="30" width="40" /></a>
 </p>
 
@@ -25,5 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstboy&show_icons=true&locale=en&layout=compact" alt="bstboy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bstboy&" alt="bstboy" /></p>
 
