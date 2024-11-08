@@ -68,6 +68,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<br clear="both">
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hesamkharazmi&locale=en&mode=daily&theme=blueberry-duo&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" /></a>
