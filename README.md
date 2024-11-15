@@ -23,6 +23,9 @@
   <a href="https://stackoverflow.com/users/20820041/hesamoddin-kharazmipour" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
+   <a href="https://wakatime.com/@bstboy" rel="nofollow">
+    <img alt="wakatime" src="https://camo.githubusercontent.com/61c46528dcdb34c3701315e8d33db70dc2e04ee9a61c003bcc223cab27bc08d6/68747470733a2f2f77616b6174696d652e636f6d2f62616467652f757365722f64623239333064302d336266382d346638382d623634642d6366623637633231633262362e7376673f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://wakatime.com/badge/user/db2930d0-3bf8-4f88-b64d-cfb67c21c2b6.svg?style=for-the-badge" style="max-width: 100%;">
+  </a>
 </div>
 
 ###
