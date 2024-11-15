@@ -22,7 +22,7 @@
   </a>
   <a href="https://stackoverflow.com/users/20820041/hesamoddin-kharazmipour" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <a href="https://wakatime.com/@61f32537-383c-41de-a613-e685ea1c1ab9"><img src="https://wakatime.com/badge/user/61f32537-383c-41de-a613-e685ea1c1ab9.svg" alt="Total time coded since Aug 2 2024" height="25"/></a>
+  <a href="https://wakatime.com/@61f32537-383c-41de-a613-e685ea1c1ab9"><img src="https://wakatime.com/badge/user/61f32537-383c-41de-a613-e685ea1c1ab9.svg?style=for-the-badge" alt="Total time coded since Aug 2 2024" height="25"/></a>
   </a>
 </div>
 
