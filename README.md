@@ -1,20 +1,17 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Hesam Kharazmi</h1>
 
-###
+- 🌱 I’m currently learning **data analytics and machine learning.**
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 📫 How to reach me **hesamkharazmi.dev@gmail.com**
 
-###
+- 📄 Know about my experiences [on my LinkedIn.](https://www.linkedin.com/in/hesam-kharazmipour/)
 
-<p align="left">I'm Hesam from Iran.<br><br>- 🔭 I’m working as a computer engineering student with a passion for Financial Machine Learning and Quantitative Finance.<br>- 📚 I'm currently learning advanced machine learning techniques, algorithmic trading strategies, and financial modeling to build predictive models for the financial markets.<br>- ⚡ In my free time, I enjoy participating in competitive programming, exploring new AI research papers, and reading about market trends and financial innovations.</p>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hesam-kharazmipour/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:hesamkharazmiii@gmail.com" target="_blank">
+  <a href="mailto:hesamkharazmi.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/hesamkharazmiii" target="_blank">
