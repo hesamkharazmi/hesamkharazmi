@@ -25,8 +25,6 @@
 
 ###
 
-<img align="right" height="300" src="https://api.writco.in/assets/images/post/user/quote/478231204071207345.webp"  />
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -61,6 +59,20 @@
 
 <br clear="both">
 <br>
+</div>
+
+###
+
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img
+      src="https://streak-stats.demolab.com?user=hesamkharazmi&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      height="180"
+    />
+  </a>
 </div>
 
 
