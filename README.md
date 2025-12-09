@@ -61,7 +61,17 @@
 
 ###
 
+<h3 align="center">🔥 GitHub Streak</h3>
 
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img
+      src="https://streak-stats.demolab.com?user=hesamkharazmi&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      height="180"
+    />
+  </a>
+</div>
 
 
 ###
