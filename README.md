@@ -17,9 +17,7 @@
   <a href="https://www.hackerrank.com/profile/hesamkharazmiii" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
- <a href="https://wakatime.com/@61f32537-383c-41de-a613-e685ea1c1ab9">
-  <img src="https://wakatime.com/badge/user/61f32537-383c-41de-a613-e685ea1c1ab9.svg?style=for-the-badge&cache_bust=1" height="25"/>
-</a>
+ <a href="https://wakatime.com/@61f32537-383c-41de-a613-e685ea1c1ab9"><img src="https://wakatime.com/badge/user/61f32537-383c-41de-a613-e685ea1c1ab9.svg" alt="Total time coded since Aug 2 2024" /></a>
 
 </div>
 
