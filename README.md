@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hesam Kharazmi</h1>
 
-- 🌱 I’m currently learning **Software Engineering and Machine Learning.**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **hesamkharazmi.dev@gmail.com**
 
